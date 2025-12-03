@@ -1,10 +1,10 @@
-# Backend Oracle
+# Backend professional
 
 High-accuracy Retrieval-Augmented Generation (RAG) coding assistant built exclusively for backend developers working with Python and FastAPI.
 
 ## Project Overview
 
-Backend Oracle is a specialized retrieval-augmented generation (RAG) system designed as a coding assistant for backend developers working with Python and FastAPI. It combines a vector database storing official FastAPI documentation with a local language model to provide accurate, context-grounded answers to technical questions. The system ensures privacy by keeping all data local and focuses exclusively on trusted sources to minimize hallucinations.
+Backend professional a specialized retrieval-augmented generation (RAG) system designed as a coding assistant for backend developers working with Python and FastAPI. It combines a vector database storing official FastAPI documentation with a local language model to provide accurate, context-grounded answers to technical questions. The system ensures privacy by keeping all data local and focuses exclusively on trusted sources to minimize hallucinations.
 
 ## Core Objectives
 
